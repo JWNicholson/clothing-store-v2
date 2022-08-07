@@ -30,7 +30,6 @@ const App = () => {
   ];
   
   return (
-    
     <Directory categories={categories}/>
   );
 };
